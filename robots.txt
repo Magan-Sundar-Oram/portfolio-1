@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magan-sundar-oram.vercel.app/sitemap.xml
