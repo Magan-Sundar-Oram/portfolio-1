@@ -12,8 +12,7 @@ Portfolio/
 ├── site.webmanifest
 ├── vercel.json
 └── assets/
-    ├── images/
-    │   └── og-image.png        ← social-preview image (LinkedIn/WhatsApp/Twitter)
+    ├── images/ 
     ├── icons/
     │   ├── favicon.svg
     │   ├── favicon-32.png
